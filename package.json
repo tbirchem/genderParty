@@ -29,7 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-css": "tailwindcss bld ../genderParty/src/styles.css -o ../genderParty/public/styles.css"
+    "build-css": "tailwindcss bld root/styles.css -o ../genderParty/public/styles.css"
   },
   "eslintConfig": {
     "extends": [
