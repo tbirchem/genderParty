@@ -12,6 +12,7 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "chart.js": "2.9.4",
+    "live-server": "^1.2.2",
     "lodash": "^4.17.21",
     "ng2-charts": "^2.2.3",
     "react": "^17.0.2",
