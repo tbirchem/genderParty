@@ -7,4 +7,4 @@ Site Link -> https://tbirchem.github.io/genderParty/
 Site created using react.js, tailwind CSS, HTML
 
 Purpose -
-For my brother and sister in-laws reveal party
+For my brother and sister in-law's reveal party
