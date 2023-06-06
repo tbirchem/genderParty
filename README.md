@@ -2,7 +2,7 @@
 
 Site Link -> https://tbirchem.github.io/genderParty/
 
-*must click on "Reveal Party!" in navbar to reveal homepage, bug that I have not had the time to fix.
+*must click on "Reveal Party!" in navbar to reveal homepage since its a REVEAL PARTY
 
 - Site created using react.js, tailwind CSS, HTML
 
